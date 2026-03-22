@@ -1,6 +1,6 @@
 Package: com.jailedutils.redditcolorcomments
 Name: redditColorComments
-Version: 0.0.1~RC3
+Version: 0.0.1~RC4
 Architecture: iphoneos-arm
 Description: Reddit color comments for >2025.11.
 Maintainer: Sam Hyde
